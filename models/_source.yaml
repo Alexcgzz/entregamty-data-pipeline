@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    database: ENTREGAMTY
+    schema: RAW
+    tables:
+      - name: pedidos
+      - name: zonas
+      - name: repartidores
+      - name: clima
+      - name: incidencias
